@@ -1,5 +1,5 @@
-module github.com/diamondburned/lsof
+module github.com/bobobillybagsen/lsof
 
-go 1.14
+go 1.16
 
 require github.com/pkg/errors v0.9.1
